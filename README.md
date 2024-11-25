@@ -29,4 +29,3 @@ Feel free to connect with me here or on [LinkedIn](https://linkedin.com/in/thoma
 
 Thanks for stopping by!
 
--->
