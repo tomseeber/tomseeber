@@ -20,7 +20,7 @@ I'm a Data Science Manager with over 15 years of experience in software developm
 - **Bachelor’s in Psychology/English** from the University of Illinois
 
 ### 🌱 What I'm Working On
-Currently, I'm working on exciting projects involving predictive modelling, data engineering, and generative AI solutions. I'm also an instructor at the University of Toronto's Continuing Education, where I share my knowledge in data science, machine learning, and business analytics.
+Currently, I'm working on effective cost solutions that combine GenAI coding with Agentic solutions.
 
 ### 🤝 Let's Connect
 Feel free to connect with me here or on [LinkedIn](https://linkedin.com/in/thomasseeber). Let's create data-driven solutions together!
